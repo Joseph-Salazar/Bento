@@ -1,0 +1,8 @@
+.index-button {
+    color: #46EDF8;
+    text-decoration: none !important;
+}
+
+.index-button:visited {
+    color: #46EDF8;
+}
